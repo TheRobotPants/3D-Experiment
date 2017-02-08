@@ -12,3 +12,16 @@ This is an outline for the third experiment in Sean Barton's dissertation and th
 ### Power Analysis
 Using reported test statisics and effect sizes, we calculate the power analysis for each analysis used in this previous experiment and use this to inform our decision about the number of subjects for the current study
 
+## 3D Obstacle Avvoidance -- Other Domains
+
+# Current Experiment Design {.tabset}
+## Front Matter {.tabset}
+### Question
+### Hypothes(is/es)
+### Predictions
+## Methods {.tabset}
+### Design
+### Procedures
+### Analyses
+
+HERE iS A TEST
